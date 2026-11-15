@@ -1,0 +1,9 @@
+{
+  "name": "@camberlabs/autotile-bitmask-47",
+  "version": "1.0.0",
+  "description": "47-tile blob bitmask reducer (256 -> 47), 16-tile dual-grid Wang mapper, extruded atlas math, plus Godot 4 & Unity scripts.",
+  "type": "module",
+  "main": "src/bitmask47.mjs",
+  "license": "MIT",
+  "homepage": "https://camberlabs.github.io/tools/47-tile-blob-autotile-atlas-calculator/"
+}
